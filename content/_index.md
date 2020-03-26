@@ -11,7 +11,7 @@ sections:
     our home (and doing all the work ourselves). \n\nAnd we're pretty much living
     on love. \n\nCome join us. "
   actions:
-  - label: Learn More
+  - label: Get to Know Us
     url: "/about"
 layout: home
 menu:
